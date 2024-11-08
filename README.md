@@ -1,5 +1,4 @@
-<h1 align="center">Hola 👋, Me llamo Erick Alvarado Solano</h1>
-<h3 align="center">Soy un desarrollador de software</h3>
+<h1 align="center">Hola soy Erick Alvarado Solano</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
